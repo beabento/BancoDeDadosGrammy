@@ -1,0 +1,639 @@
+,cod_category,category
+0,1,Album Of Best Original Score Written For A Motion Picture Or A Television Special
+1,2,Album Of Best Original Score Written For A Motion Picture Or Television Special
+2,3,Album Of The Year
+3,4,Album Of The Year (Other Than Classical)
+4,5,Album Of The Year - Classical
+5,6,Album Of The Year -- Classical
+6,7,"Album Of The Year, Classical"
+7,8,Best Accompaniment Arrangement For Vocalist(s) Or Instrumentalist(s)
+8,9,Best Album Cover
+9,10,Best Album Cover (Other Than Classical)
+10,11,Best Album Cover - Classical
+11,12,Best Album Cover - Graphic Arts
+12,13,Best Album Cover - Other Than Classical
+13,14,Best Album Cover - Photography
+14,15,"Best Album Cover, Graphic Arts"
+15,16,"Best Album Cover, Photography"
+16,17,Best Album Cover- Other Than Classical
+17,18,Best Album Created For Children
+18,19,Best Album For Children
+19,20,Best Album Notes
+20,21,Best Album Notes (Classical)
+21,22,Best Album Notes - Classical
+22,23,"Best Album Notes, Classical"
+23,24,Best Album Of Original Instrumental Background Score Written For A Motion Picture Or Television
+24,25,Best Album Of Original Score Written For A Motion Picture Or A Television Special
+25,26,Best Album Of Original Score Written For A Motion Picture Or Television Special
+26,27,Best Album Or Original Instrumental Background Score Written For A Motion Picture Or Television
+27,28,Best Album Package
+28,29,Best Alternative Music Album
+29,30,Best Alternative Music Performance
+30,31,Best American Roots Performance
+31,32,Best American Roots Song
+32,33,Best Americana Album
+33,34,Best Arrangement
+34,35,Best Arrangement Accompanying A Vocalist Or Instrumentalist
+35,36,Best Arrangement Accompanying Vocal(s)
+36,37,Best Arrangement Accompanying Vocalist(s)
+37,38,Best Arrangement Accompanying Vocalist(s) Or Instrumentalist(s)
+38,39,Best Arrangement Accompanying Vocalists
+39,40,Best Arrangement Accompanying Vocals
+40,41,Best Arrangement For Voices
+41,42,"Best Arrangement For Voices (Duo, Group Or Chorus)"
+42,43,Best Arrangement On An Instrumental
+43,44,Best Arrangement On An Instrumental Recording
+44,45,"Best Arrangement, Instrumental or A Cappella"
+45,46,"Best Arrangement, Instruments and Vocals"
+46,47,Best Background Arrangement
+47,48,Best Background Arrangement (Behind vocalist or instrumentalist)
+48,49,Best Banda Album
+49,50,Best Banda Or Norteño Album
+50,51,Best Bluegrass Album
+51,52,Best Bluegrass Recording
+52,53,Best Bluegrass Recording (Vocal Or Instrumental)
+53,54,Best Blues Album
+54,55,Best Boxed Or Special Limited Edition Package
+55,56,Best Boxed Recording Package
+56,57,Best Broadway Show Album
+57,58,Best Cast Show Album
+58,59,Best Chamber Music Or Other Small Ensemble Performance
+59,60,Best Chamber Music Performance
+60,61,Best Chamber Music Performance - Instrumental Or Vocal
+61,62,Best Chamber Music Performance - Vocal
+62,63,Best Chamber Music/Small Ensemble Performance
+63,64,Best Chamber Performance - Instrumental
+64,65,Best Children's Album
+65,66,Best Children's Music Album
+66,67,Best Choral Performance
+67,68,Best Choral Performance (Other Than Opera)
+68,69,Best Choral Performance - Classical
+69,70,"Best Choral Performance, Classical (Other Than Opera)"
+70,71,Best Classical Album
+71,72,Best Classical Chamber Music Performance - Instrumental Or Vocal
+72,73,Best Classical Choral Performance (Other Than Opera)
+73,74,Best Classical Compendium
+74,75,Best Classical Composition By A Contemporary Composer
+75,76,Best Classical Contemporary Composition
+76,77,Best Classical Crossover Album
+77,78,Best Classical Engineered Recording
+78,79,Best Classical Instrumental Solo
+79,80,Best Classical Opera Production
+80,81,Best Classical Orchestral Performance
+81,82,Best Classical Orchestral Recording
+82,83,Best Classical Performance - Chamber Music
+83,84,Best Classical Performance - Chamber Music (Including Chamber Orchestra)
+84,85,Best Classical Performance - Choral (Including Oratorio)
+85,86,Best Classical Performance - Choral (Other Than Opera)
+86,87,Best Classical Performance - Concerto Or Instrumental Soloist
+87,88,Best Classical Performance - Concerto Or Instrumental Soloist (Other Than Full Orchestral Accompaniment)
+88,89,Best Classical Performance - Concerto Or Instrumental Soloist (With Full Orchestral Accompaniment)
+89,90,Best Classical Performance - Instrumental Solo With Orchestra
+90,91,Best Classical Performance - Instrumental Solo Without Orchestra
+91,92,Best Classical Performance - Instrumental Soloist (With Orchestra)
+92,93,Best Classical Performance - Instrumental Soloist (Without Orchestra)
+93,94,Best Classical Performance - Instrumental Soloist OR Soloists (With Orchestra)
+94,95,Best Classical Performance - Instrumental Soloist Or Duo (Other Than With Orchestral Accompaniment)
+95,96,Best Classical Performance - Instrumental Soloist Or Duo (Without Orchestra)
+96,97,Best Classical Performance - Instrumental Soloist Or Soloists (With Or Without Orchestra)
+97,98,Best Classical Performance - Instrumental Soloist Or Soloists (With Orchestra)
+98,99,Best Classical Performance - Instrumental Soloist Or Soloists (Without Orchestra)
+99,100,Best Classical Performance - Instrumental Soloist(s) (With Orchestra)
+100,101,Best Classical Performance - Instrumental Soloist(s) (Without Orchestra)
+101,102,Best Classical Performance - Instrumentalist (Other Than Concerto-Scale Accompaniment)
+102,103,Best Classical Performance - Instrumentalist (With Concerto Scale Accompaniment)
+103,104,Best Classical Performance - Opera Cast Or Choral
+104,105,Best Classical Performance - Operatic Or Choral
+105,106,Best Classical Performance - Orchestra
+106,107,Best Classical Performance - Vocal Or Instrumental - Chamber Music
+107,108,Best Classical Performance - Vocal Soloist
+108,109,Best Classical Performance - Vocal Soloist (With Or Without Orchestra)
+109,110,Best Classical Performance Instrumental Solo Without Orchestra
+110,111,Best Classical Performance Instrumental Soloist Or Soloists (With Orchestra)
+111,112,Best Classical Performance Instrumental Soloist Or Soloists (Without Orchestra)
+112,113,"Best Classical Performance, Instrumental Soloist (With Orchestra)"
+113,114,"Best Classical Performance, Instrumental Soloist (Without Orchestra)"
+114,115,"Best Classical Performance, Instrumental Soloist Or Soloists (With Orchestra)"
+115,116,"Best Classical Performance, Instrumental Soloist Or Soloists (Without Orchestra)"
+116,117,"Best Classical Performance, Instrumental Soloist(s) (With Orchestra)"
+117,118,"Best Classical Performance, Instrumental Soloist(s) (Without Orchestra)"
+118,119,"Best Classical Performance, Orchestra"
+119,120,Best Classical Performance- Instrumental Soloist Or Soloists (With Orchestra)
+120,121,Best Classical Performance-Instrumental Soloist (Without Orchestra)
+121,122,Best Classical Performance-Instrumental Soloist(s) (With Orchestra)
+122,123,Best Classical Solo Vocal Album
+123,124,Best Classical Vocal Performance
+124,125,Best Classical Vocal Solo
+125,126,Best Classical Vocal Soloist
+126,127,Best Classical Vocal Soloist Performance
+127,128,Best Classical Vocal Soloist Performance (With Or Without Orchestra)
+128,129,Best Comedy Album
+129,130,Best Comedy Performance
+130,131,Best Comedy Performance (Musical)
+131,132,Best Comedy Performance - Musical
+132,133,Best Comedy Performance - Spoken Word
+133,134,Best Comedy Recording
+134,135,"Best Compilation Soundtrack Album For A Motion Picture, Television Or Other Visual Media"
+135,136,"Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media"
+136,137,Best Compilation Soundtrack For Visual Media
+137,138,Best Composition By A Contemporary Classical Composer
+138,139,Best Composition By A Contemporary Composer
+139,140,Best Concept Music Video
+140,141,"Best Contemporary (R&R) Group Performance, Vocal Or Instrumental"
+141,142,Best Contemporary (R&R) Performance - Group (Vocal Or Instrumental)
+142,143,Best Contemporary (R&R) Recording
+143,144,Best Contemporary (R&R) Single
+144,145,Best Contemporary (R&R) Solo Vocal Performance - Male Or Female
+145,146,Best Contemporary (R&R) Vocal Performance - Female
+146,147,Best Contemporary (R&R) Vocal Performance - Male
+147,148,Best Contemporary Album
+148,149,Best Contemporary Blues Album
+149,150,Best Contemporary Blues Recording
+150,151,Best Contemporary Christian Music Album
+151,152,Best Contemporary Christian Music Performance/Song
+152,153,Best Contemporary Christian Music Song
+153,154,Best Contemporary Classical  Composition
+154,155,Best Contemporary Classical Composition
+155,156,Best Contemporary Composition
+156,157,Best Contemporary Female Solo Vocal Performance
+157,158,Best Contemporary Folk Album
+158,159,Best Contemporary Folk Recording
+159,160,Best Contemporary Folk/Americana Album
+160,161,Best Contemporary Group Performance (Vocal Or Instrumental)
+161,162,Best Contemporary Instrumental Album
+162,163,Best Contemporary Instrumental Performance
+163,164,Best Contemporary Jazz Album
+164,165,Best Contemporary Jazz Performance
+165,166,Best Contemporary Jazz Performance (Instrumental)
+166,167,Best Contemporary Male Solo Vocal Performance
+167,168,Best Contemporary Performance By A Chorus
+168,169,Best Contemporary Pop Performance - Vocal Duo Or Group
+169,170,"Best Contemporary Pop Performance, Chorus"
+170,171,"Best Contemporary Pop Performance, Instrumental"
+171,172,"Best Contemporary Pop Vocal Performance, Female"
+172,173,"Best Contemporary Pop Vocal Performance, Male"
+173,174,Best Contemporary R&B Album
+174,175,Best Contemporary R&B Gospel Album
+175,176,Best Contemporary Single
+176,177,Best Contemporary Song
+177,178,Best Contemporary Soul Gospel Album
+178,179,"Best Contemporary Vocal Performance By A Duo, Group Or Chorus"
+179,180,Best Contemporary Vocal Performance By A Group
+180,181,"Best Contemporary Vocal Performance, Female"
+181,182,"Best Contemporary Vocal Performance, Male"
+182,183,Best Contemporary World Music Album
+183,184,Best Country & Western Album
+184,185,Best Country & Western Performance
+185,186,"Best Country & Western Performance Duet, Trio Or Group (Vocal Or Instrumental)"
+186,187,Best Country & Western Recording
+187,188,Best Country & Western Single
+188,189,"Best Country & Western Solo Vocal Performance, Female"
+189,190,"Best Country & Western Solo Vocal Performance, Male"
+190,191,Best Country & Western Song
+191,192,Best Country & Western Vocal Performance - Female
+192,193,Best Country & Western Vocal Performance - Male
+193,194,"Best Country & Western Vocal Performance, Male"
+194,195,Best Country Album
+195,196,Best Country Collaboration With Vocals
+196,197,Best Country Duo/Group Performance
+197,198,Best Country Instrumental Performance
+198,199,"Best Country Instrumental Performance (Orchestra, Group Or Soloist)"
+199,200,Best Country Performance By A Duo Or Group With Vocal
+200,201,Best Country Performance By A Duo Or Group With Vocals
+201,202,Best Country Performance Duo Or Group
+202,203,"Best Country Performance, Duo Or Group - Vocal Or Instrumental"
+203,204,Best Country Solo Performance
+204,205,Best Country Song
+205,206,Best Country Vocal Collaboration
+206,207,Best Country Vocal Performance By A Duo Or Group
+207,208,"Best Country Vocal Performance, Duet"
+208,209,"Best Country Vocal Performance, Female"
+209,210,"Best Country Vocal Performance, Male"
+210,211,"Best Country Vocal Solo Performance, Male"
+211,212,Best Dance Recording
+212,213,Best Dance/Electronic Album
+213,214,Best Dance/Electronica Album
+214,215,Best Disco Recording
+215,216,Best Documentary Or Spoken Word Recording (Other Than Comedy)
+216,217,"Best Documentary, Spoken Word Or Drama Recording (Other Than Comedy)"
+217,218,Best Electronic/Dance Album
+218,219,Best Engineered Album - Non-Classical
+219,220,"Best Engineered Album, Classical"
+220,221,"Best Engineered Album, Non-Classical"
+221,222,Best Engineered Record (Classical)
+222,223,Best Engineered Record - Non-Classical
+223,224,Best Engineered Recording
+224,225,Best Engineered Recording (Classical)
+225,226,Best Engineered Recording (Non-Classical)
+226,227,Best Engineered Recording - Classical
+227,228,Best Engineered Recording - Non Classical
+228,229,Best Engineered Recording - Non-Classical
+229,230,Best Engineered Recording - Other Than Classical
+230,231,Best Engineered Recording - Special Or Novel Effects
+231,232,"Best Engineered Recording, Classical"
+232,233,Best Engineering Contribution - Classical Recording
+233,234,Best Engineering Contribution - Novelty
+234,235,Best Engineering Contribution - Novelty Recording
+235,236,Best Engineering Contribution - Other Than Classical Or Novelty
+236,237,Best Engineering Contribution - Other Than Novelty And Other Than Classical
+237,238,Best Engineering Contribution - Popular Recording
+238,239,Best Ethnic Or Traditional Folk Recording
+239,240,Best Ethnic Or Traditional Recording
+240,241,Best Ethnic Or Traditional Recording (Including Traditional Blues)
+241,242,Best Female Country Vocal Performance
+242,243,Best Female Pop Vocal Performance
+243,244,Best Female R&B Vocal Performance
+244,245,Best Female Rap Solo Performance
+245,246,Best Female Rock Vocal Performance
+246,247,Best Folk Album
+247,248,Best Folk Performance
+248,249,Best Folk Recording
+249,250,Best Gospel Album
+250,251,Best Gospel Album By A Choir Or Chorus
+251,252,Best Gospel Album By Choir Or Chorus
+252,253,Best Gospel Choir Or Chorus Album
+253,254,Best Gospel Or Other Religious Recording
+254,255,Best Gospel Or Other Religious Recording (Musical)
+255,256,Best Gospel Performance
+256,257,Best Gospel Performance (Other Than Soul Gospel)
+257,258,Best Gospel Performance By A Duo Or Group
+258,259,"Best Gospel Performance By A Duo Or Group, Choir Or Chorus"
+259,260,Best Gospel Performance Contemporary Or Inspirational
+260,261,"Best Gospel Performance, Contemporary"
+261,262,"Best Gospel Performance, Contemporary Or Inspirational"
+262,263,"Best Gospel Performance, Contemporary Or Insprirational"
+263,264,"Best Gospel Performance, Female"
+264,265,"Best Gospel Performance, Male"
+265,266,"Best Gospel Performance, Traditional"
+266,267,Best Gospel Performance/Song
+267,268,Best Gospel Song
+268,269,"Best Gospel Vocal Performance By A Duo, Group, Choir Or Chorus"
+269,270,"Best Gospel Vocal Performance, Female"
+270,271,"Best Gospel Vocal Performance, Male"
+271,272,Best Gospel/Contemporary Christian Music Performance
+272,273,Best Hard Rock Performance
+273,274,Best Hard Rock Performance With Vocal
+274,275,Best Hard Rock/Metal Performance
+275,276,Best Hard Rock/Metal Performance Vocal Or Instrumental
+276,277,Best Hawaiian Music Album
+277,278,Best Historical Album
+278,279,Best Historical Reissue
+279,280,Best Historical Reissue Album
+280,281,Best Historical Repackage Album
+281,282,Best Immersive Audio Album
+282,283,Best Improvised Jazz Solo
+283,284,Best Inspirational Performance
+284,285,Best Inspirational Performance (Non-Classical)
+285,286,Best Instrumental Arrangement
+286,287,Best Instrumental Arrangement Accompanying A Vocalist(s)
+287,288,Best Instrumental Arrangement Accompanying Vocal(s)
+288,289,Best Instrumental Arrangement Accompanying Vocalist(s)
+289,290,Best Instrumental Arrangement Accompanying Vocals
+290,291,Best Instrumental Arrangement With Accompanying Vocal(s)
+291,292,Best Instrumental Arrangement With Accompanying Vocals
+292,293,Best Instrumental Composition
+293,294,Best Instrumental Composition (Other Than Jazz)
+294,295,Best Instrumental Composition Written For A Motion Picture Or For Television
+295,296,"Best Instrumental Composition Written For A Motion Picture, Television Or Other Visual Media."
+296,297,Best Instrumental Jazz Performance - Group Or Soloist With Group
+297,298,Best Instrumental Jazz Performance - Large Group
+298,299,Best Instrumental Jazz Performance - Large Group Or Soloist With Large Group
+299,300,Best Instrumental Jazz Performance - Small Group Or Soloist With Small Group
+300,301,Best Instrumental Jazz Performance - Soloist Or Small Group
+301,302,"Best Instrumental Jazz Performance, Large Group Or Soloist With Large Group"
+302,303,"Best Instrumental Jazz Performance, Small Group Or Soloist With Small Group"
+303,304,Best Instrumental Performance
+304,305,Best Instrumental Performance (Other Than Jazz)
+305,306,Best Instrumental Performance - Non-Jazz
+306,307,"Best Instrumental Performance, Non-Jazz"
+307,308,Best Instrumental Soloist Performance (With Orchestra)
+308,309,Best Instrumental Soloist Performance (Without Orchestra)
+309,310,Best Instrumental Soloist Performance (without Orchestra)
+310,311,Best Instrumental Soloist Performance Without Orchestra
+311,312,Best Instrumental Soloist With Orchestra
+312,313,Best Instrumental Soloist(s) Performance (With Orchestra)
+313,314,Best Instrumental Soloist(s) Performance (with Orchestra)
+314,315,Best Instrumental Theme
+315,316,Best Instrumental Theme Or Instrumental Version Of Song
+316,317,Best Jazz Composition Of More Than Five Minutes Duration
+317,318,Best Jazz Fusion Performance
+318,319,"Best Jazz Fusion Performance, Vocal Or Instrumental"
+319,320,"Best Jazz Fusion Performance, Vocal Or Istrumental"
+320,321,Best Jazz Instrumental Album
+321,322,"Best Jazz Instrumental Album, Individual or Group"
+322,323,Best Jazz Instrumental Performance Soloist (On A Jazz Recording)
+323,324,"Best Jazz Instrumental Performance, Big Band"
+324,325,"Best Jazz Instrumental Performance, Group"
+325,326,"Best Jazz Instrumental Performance, Individual Or Group"
+326,327,"Best Jazz Instrumental Performance, Soloist"
+327,328,"Best Jazz Instrumental Performance, Soloist (On A Jazz Recording)"
+328,329,Best Jazz Instrumental Solo
+329,330,Best Jazz Performance - Group
+330,331,Best Jazz Performance - Large Group (Instrumental)
+331,332,Best Jazz Performance - Large Group Or Soloist With Large Group
+332,333,Best Jazz Performance - Small Group Or Soloist With Small Group
+333,334,Best Jazz Performance - Soloist
+334,335,Best Jazz Performance - Soloist Or Small Group (Instrumental)
+335,336,Best Jazz Performance By A Big Band
+336,337,Best Jazz Performance By A Group
+337,338,Best Jazz Performance By A Soloist
+338,339,Best Jazz Performance By A Soloist (Instrumental)
+339,340,Best Jazz Performance Large Group
+340,341,Best Jazz Performance Solo Or Small Group
+341,342,"Best Jazz Performance, Group"
+342,343,"Best Jazz Performance, Individual"
+343,344,Best Jazz Vocal Album
+344,345,Best Jazz Vocal Performance
+345,346,Best Jazz Vocal Performance Duo Or Group
+346,347,"Best Jazz Vocal Performance, Duo Or Group"
+347,348,"Best Jazz Vocal Performance, Female"
+348,349,"Best Jazz Vocal Performance, Male"
+349,350,Best Large Jazz Ensemble Album
+350,351,Best Large Jazz Ensemble Performance
+351,352,Best Latin Jazz Album
+352,353,Best Latin Jazz Performance
+353,354,Best Latin Pop Album
+354,355,Best Latin Pop Performance
+355,356,"Best Latin Pop, Rock, Or Urban Album"
+356,357,Best Latin Recording
+357,358,Best Latin Rock Or Alternative Album
+358,359,"Best Latin Rock, Alternative Or Urban Album"
+359,360,"Best Latin Rock, Urban or Alternative Album"
+360,361,Best Latin Rock/Alternative Album
+361,362,Best Latin Rock/Alternative Performance
+362,363,Best Latin Urban Album
+363,364,Best Long Form Music Video
+364,365,Best Male Country Vocal Performance
+365,366,Best Male Pop Vocal Performance
+366,367,Best Male R&B Vocal Performance
+367,368,Best Male Rap Solo Performance
+368,369,Best Male Rock Vocal Performance
+369,370,Best Merengue Album
+370,371,Best Merengue Performance
+371,372,Best Metal Performance
+372,373,Best Metal Performance With Vocal
+373,374,Best Mexican-American Album
+374,375,Best Mexican-American Music Performance
+375,376,Best Mexican-American Performance
+376,377,Best Mexican-American/Tejano Music Performance
+377,378,Best Mexican/Mexican-American Album
+378,379,Best Music Film
+379,380,Best Music Video
+380,381,Best Music Video - Long Form
+381,382,Best Music Video - Short Form
+382,383,"Best Music Video, Long Form"
+383,384,"Best Music Video, Short Form"
+384,385,Best Music Video-Long Form
+385,386,Best Musical Album For Children
+386,387,Best Musical Cast Show Album
+387,388,Best Musical Composition First Recorded And Released In 1958 (Over 5 Minutes Duration)
+388,389,Best Musical Composition First Recorded And Released In 1959 (More Than 5 Minutes Duration)
+389,390,Best Musical Show Album
+390,391,Best Musical Theater Album
+391,392,Best Native American Music Album
+392,393,Best New Age Album
+393,394,Best New Age Performance
+394,395,Best New Age Recording
+395,396,Best New Artist
+396,397,Best New Artist Of 1959
+397,398,Best New Artist Of 1960
+398,399,Best New Artist Of 1961
+399,400,Best New Artist Of 1962
+400,401,Best New Artist Of 1963
+401,402,Best New Artist Of 1964
+402,403,Best New Artist Of The Year
+403,404,Best New Classical Artist
+404,405,Best New Classical Composition
+405,406,Best New Country & Western Artist
+406,407,Best New Country & Western Artist Of 1964
+407,408,Best New Country Song
+408,409,Best Norteño Album
+409,410,Best Opera Recording
+410,411,Best Orchestral Performance
+411,412,Best Orchestral Recording
+412,413,Best Original Cast Album (Broadway Or TV)
+413,414,Best Original Cast Show Album
+414,415,Best Original Jazz Composition
+415,416,Best Original Score From A Motion Picture Or Television Show
+416,417,Best Original Score Written For A Motion Picture Or A Television Show
+417,418,Best Original Score Written For A Motion Picture Or A Television Special
+418,419,Best Original Score Written For A Motion Picture Or Television Show
+419,420,Best Performance - Documentary Or Spoken Word (Other Than Comedy)
+420,421,Best Performance - Folk
+421,422,Best Performance - Instrumental Soloist Or Soloists (With Or Without Orchestra)
+422,423,Best Performance - Instrumental Soloist Or Soloists (With Orchestra)
+423,424,Best Performance - Instrumental Soloist Or Soloists (Without Orchestra)
+424,425,Best Performance - Orchestra
+425,426,"Best Performance By A ""Top 40"" Artist"
+426,427,Best Performance By A Band For Dancing
+427,428,Best Performance By A Chorus
+428,429,Best Performance By A Chorus (7 Or More Persons)
+429,430,Best Performance By A Dance Band
+430,431,Best Performance By A Pop Single Artist
+431,432,Best Performance By A Vocal Group
+432,433,Best Performance By A Vocal Group (2 To 6)
+433,434,Best Performance By A Vocal Group Or Chorus
+434,435,Best Performance By An Orchestra
+435,436,Best Performance By An Orchestra - For Dancing
+436,437,Best Performance By An Orchestra - For Other Than Dancing
+437,438,Best Performance By An Orchestra Or Instrumentalist With Orchestra - Primarily Not Jazz Or For Dancing
+438,439,Best Performance Music Video
+439,440,Best Performance Of A Choral Work
+440,441,"Best Performance, Documentary Or Spoken Word"
+441,442,Best Polka Album
+442,443,Best Polka Recording
+443,444,Best Pop Album
+444,445,Best Pop Collaboration With Vocals
+445,446,Best Pop Duo/Group Performance
+446,447,Best Pop Gospel Album
+447,448,Best Pop Instrumental Album
+448,449,Best Pop Instrumental Performance
+449,450,"Best Pop Instrumental Performance (Orchestra, Group Or Soloist)"
+450,451,"Best Pop Instrumental Performance By An Arranger, Composer, Orchestra And/Or Choral Leader"
+451,452,Best Pop Instrumental Performance By An Instrumental Performer
+452,453,"Best Pop Instrumental Performance, (Orchestra, Group Or Soloist)"
+453,454,Best Pop Instrumental Recording
+454,455,Best Pop Performance By A Duo Or Group With Vocal
+455,456,Best Pop Performance By A Duo Or Group With Vocals
+456,457,Best Pop Solo Performance
+457,458,Best Pop Vocal Album
+458,459,Best Pop Vocal Collaboration
+459,460,Best Pop Vocal Performance By A Duo Or Group
+460,461,Best Pop Vocal Performance By A Duo Or Group With Vocal
+461,462,"Best Pop Vocal Performance By A Duo, Group Or Chorus"
+462,463,Best Pop Vocal Performance By A Group
+463,464,"Best Pop Vocal Performance, Female"
+464,465,"Best Pop Vocal Performance, Male"
+465,466,Best Pop/Contemporary Gospel Album
+466,467,Best Producer Of The Year
+467,468,Best R&B Album
+468,469,Best R&B Instrumental Performance
+469,470,"Best R&B Instrumental Performance (Orchestra, Group Or Soloist)"
+470,471,Best R&B Performance
+471,472,Best R&B Performance By A Duo Or Group With Vocal
+472,473,Best R&B Performance By A Duo Or Group With Vocals
+473,474,"Best R&B Performance By A Duo Or Group, Vocal Or Instrumental"
+474,475,Best R&B Song
+475,476,Best R&B Vocal Performance By A Duo Or Group
+476,477,"Best R&B Vocal Performance By A Duo, Group Or Chorus"
+477,478,Best R&B Vocal Performance By A Group
+478,479,"Best R&B Vocal Performance, Female"
+479,480,"Best R&B Vocal Performance, Male"
+480,481,Best Rap Album
+481,482,Best Rap Performance
+482,483,Best Rap Performance By A Duo Or Group
+483,484,Best Rap Solo Performance
+484,485,Best Rap Song
+485,486,Best Rap/Sung Collaboration
+486,487,Best Rap/Sung Performance
+487,488,Best Recording For Children
+488,489,Best Recording Package
+489,490,Best Recording Package - Boxed
+490,491,Best Reggae Album
+491,492,Best Reggae Recording
+492,493,Best Regional Mexican Album
+493,494,Best Regional Mexican Music Album (Including Tejano)
+494,495,Best Regional Mexican Or Tejano Album
+495,496,Best Regional Roots Music Album
+496,497,Best Remixed Recording
+497,498,"Best Remixed Recording, Non-Classical"
+498,499,"Best Rhythm & Blues Group Performance, Vocal Or Instrumental"
+499,500,Best Rhythm & Blues Performance
+500,501,"Best Rhythm & Blues Performance By A Duo Or Group, Vocal Or Instrumental"
+501,502,Best Rhythm & Blues Recording
+502,503,"Best Rhythm & Blues Solo Vocal Performance, Female"
+503,504,"Best Rhythm & Blues Solo Vocal Performance, Male"
+504,505,"Best Rhythm & Blues Solo Vocal Performance, Male Or Female"
+505,506,Best Rhythm & Blues Song
+506,507,"Best Rhythm & Blues Vocal Performance, Female"
+507,508,"Best Rhythm & Blues Vocal Performance, Male"
+508,509,Best Rock & Roll Recording
+509,510,Best Rock Album
+510,511,Best Rock Gospel Album
+511,512,Best Rock Instrumental Performance
+512,513,"Best Rock Instrumental Performance (Orchestra, Group Or Soloist)"
+513,514,Best Rock Or Rap Gospel Album
+514,515,Best Rock Performance
+515,516,Best Rock Performance By A Duo Or Group With Vocal
+516,517,Best Rock Performance By A Duo Or Group With Vocals
+517,518,Best Rock Song
+518,519,Best Rock Vocal Performance By A Duo Or Group
+519,520,"Best Rock Vocal Performance, Female"
+520,521,"Best Rock Vocal Performance, Male"
+521,522,"Best Rock Vocal Performance, Solo"
+522,523,Best Rock/Contemporary Gospel Album
+523,524,Best Roots Gospel Album
+524,525,Best Sacred Performance
+525,526,Best Sacred Performance (Musical)
+526,527,Best Sacred Performance (Non-Classical)
+527,528,Best Sacred Recording (Musical)
+528,529,Best Salsa Album
+529,530,Best Salsa Performance
+530,531,Best Salsa/Merengue Album
+531,532,Best Score From An Original Cast Show Album
+532,533,Best Score From The Original Cast Show Album
+533,534,"Best Score Soundtrack Album For A Motion Picture, Television Or Other Visual Media"
+534,535,"Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media"
+535,536,Best Score Soundtrack For Visual Media
+536,537,Best Short Form Music Video
+537,538,Best Show Album (Original Cast)
+538,539,Best Small Ensemble Performance
+539,540,Best Small Ensemble Performance (With Or Without Conductor)
+540,541,Best Small Ensemble Performance (with or without Conductor)
+541,542,Best Solo Rock Vocal Performance
+542,543,"Best Solo Vocal Performance, Female"
+543,544,"Best Solo Vocal Performance, Male"
+544,545,Best Song Written For A Motion Picture Or For Television
+545,546,"Best Song Written For A Motion Picture, Television Or Other Visual Media"
+546,547,"Best Song Written For A Motion Picture, Television Or Other Visual Media."
+547,548,"Best Song Written For Motion Picture, Television Or Other Visual Media"
+548,549,Best Song Written For Visual Media
+549,550,Best Song Written Specifically For A Motion Picture Or For Television
+550,551,Best Song Written Specifically For A Motion Picture Or Television
+551,552,Best Soul Gospel Performance
+552,553,Best Soul Gospel Performance By A Duo Or Group
+553,554,"Best Soul Gospel Performance By A Duo, Group, Choir Or Chorus"
+554,555,"Best Soul Gospel Performance, Contemporary"
+555,556,"Best Soul Gospel Performance, Female"
+556,557,"Best Soul Gospel Performance, Male"
+557,558,"Best Soul Gospel Performance, Traditional"
+558,559,"Best Soul Gospel Vocal Performance Duo, Group, Choir Or Chorus"
+559,560,"Best Soul Gospel Vocal Performance, Male Or Female"
+560,561,Best Sound Track Album - Background Score From A Motion Picture Or Television
+561,562,Best Sound Track Album Or Recording Of Music Score From Motion Picture Or Television
+562,563,Best Sound Track Album Or Recording Of Original Cast From A Motion Picture Or Television
+563,564,Best Sound Track Album Or Recording Of Original Cast From Motion Picture Or Television
+564,565,Best Sound Track Album Or Recording Of Score From Motion Picture Or Television
+565,566,"Best Sound Track Album, Dramatic Picture Score Or Original Cast"
+566,567,"Best Sound Track Album, Original Cast - Motion Picture Or Television"
+567,568,Best Soundtrack Album
+568,569,Best Southern Gospel Album
+569,570,"Best Southern Gospel, Country Gospel Or Bluegrass Gospel Album"
+570,571,"Best Southern, Country Or Bluegrass Gospel Album"
+571,572,"Best Southern, Country, Or Bluegrass Gospel Album"
+572,573,"Best Southern, Country, or Bluegrass Gospel Album"
+573,574,Best Spoken Comedy Album
+574,575,Best Spoken Word Album
+575,576,"Best Spoken Word Album (Includes Poetry, Audio Books & Story Telling)"
+576,577,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)"
+577,578,Best Spoken Word Album For Children
+578,579,Best Spoken Word Album for Children
+579,580,Best Spoken Word Or Drama Recording
+580,581,Best Spoken Word Or Non-Musical Album
+581,582,Best Spoken Word Or Non-Musical Recording
+582,583,Best Spoken Word Recording
+583,584,"Best Spoken Word, Documentary Or Drama"
+584,585,"Best Spoken Word, Documentary Or Drama Recording"
+585,586,Best Surround Sound Album
+586,587,Best Tejano Album
+587,588,Best Tejano Music Performance
+588,589,Best Tejano Performance
+589,590,Best Traditional Blues Album
+590,591,Best Traditional Blues Recording
+591,592,Best Traditional Folk Album
+592,593,Best Traditional Folk Recording
+593,594,Best Traditional Gospel Album
+594,595,Best Traditional Pop Performance
+595,596,Best Traditional Pop Vocal Album
+596,597,Best Traditional Pop Vocal Performance
+597,598,Best Traditional R&B Performance
+598,599,Best Traditional R&B Vocal Album
+599,600,Best Traditional R&B Vocal Performance
+600,601,Best Traditional Soul Gospel Album
+601,602,Best Traditional Soul Gospel Performance
+602,603,Best Traditional Tropical Latin Album
+603,604,Best Traditional Tropical Latin Performance
+604,605,Best Traditional World Music Album
+605,606,Best Tropical Latin Album
+606,607,Best Tropical Latin Performance
+607,608,Best Urban Contemporary Album
+608,609,Best Urban/Alternative Performance
+609,610,Best Video Album
+610,611,"Best Video, Short Form"
+611,612,Best Vocal Arrangement For Two Or More Voices
+612,613,"Best Vocal Performance Album, Female"
+613,614,"Best Vocal Performance Album, Male"
+614,615,"Best Vocal Performance Single Record Or Track, Female"
+615,616,"Best Vocal Performance Single Record Or Track, Male"
+616,617,"Best Vocal Performance, Female"
+617,618,"Best Vocal Performance, Male"
+618,619,Best Vocal Soloist Performance
+619,620,Best Vocal Soloist Performance (With Or Without Orchestra)
+620,621,"Best Vocal Soloist Performance, Classical"
+621,622,Best World Music Album
+622,623,Best Zydeco Or Cajun Music Album
+623,624,Classical Album Of The Year
+624,625,Classical Producer Of The Year
+625,626,Most Promising New Classical Recording Artist
+626,627,Producer Of The Year
+627,628,Producer Of The Year (Non Classical)
+628,629,Producer Of The Year (Non-Classical)
+629,630,"Producer Of The Year, (Non Classical)"
+630,631,"Producer Of The Year, Classical"
+631,632,"Producer Of The Year, Non-Classical"
+632,633,Record Of The Year
+633,634,"Remixer Of The Year, Non-Classical"
+634,635,"Remixer Of The Year, Non-classical"
+635,636,"Remixer of the Year, Non-Classical"
+636,637,Song Of The Year
+637,638,Video Of The Year
