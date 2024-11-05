@@ -12,10 +12,8 @@ Trabalho final para a disciplina Banco de Dados I, o projeto consistiu em seleci
 Os dados passaram por um tratamento profundo que pode ser conferido de forma resumida nos slides da apresentação final: 
 </br> https://github.com/beabento/BancoDeDadosGrammy/blob/main/Uma-analise-dos-dados-do-Grammy-Awards-de-1958-a-2019.pdf
 </br></br>
-O código de tratamento pode ser conferido no seguinte notebook: https://github.com/beabento/BancoDeDadosGrammy/blob/main/grammy_notebook_final.ipynb
+O código de tratamento e aplicação em Python para geração de gráficos etc. podem ser conferidos no seguinte notebook: https://github.com/beabento/BancoDeDadosGrammy/blob/main/grammy_notebook_final.ipynb
 </br></br>
 O script SQL para a criação de restrições (PK, FK) no MySQL (DBeaver): https://github.com/beabento/BancoDeDadosGrammy/blob/main/Projeto%20final.sql
-</br></br>
-A aplicação em Python para geração de gráficos etc. será anexada aqui em breve.
 </br></br>
 Obrigada!
